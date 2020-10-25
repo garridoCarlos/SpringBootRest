@@ -1,4 +1,4 @@
-package com.technest.entity;
+package com.technest.model;
 
 import java.math.BigDecimal;
 import java.util.Currency;
