@@ -20,8 +20,7 @@ public class Account {
 	public Account() {}
 
 
-	public Account(Long id, String name, Currency currency, BigDecimal balance, boolean treasury) {
-		this.id = id;
+	public Account(String name, Currency currency, BigDecimal balance, boolean treasury) {
 		this.name = name;
 		this.currency = currency;
 		this.balance = balance;
